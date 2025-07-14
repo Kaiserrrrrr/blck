@@ -1,2 +1,2 @@
-# blcks
+# blck
 Focus. Productivity. Zen.
